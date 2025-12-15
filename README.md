@@ -1,8 +1,11 @@
 Sorry for csv file missing. The reason is that only 25 mb file can upload in repository. The size of the csv file is 37 mb.
 
 Dataset Overview (Understanding the Data)
+
 Dataset Name: Electric Vehicle Population Data
+
 Total Records: 150,482 vehicles
+
 Total Columns: 17 attributes
 
 Eectric Vehicle Market Analysis – Tableau Dashboard
